@@ -1,3 +1,5 @@
+remote_theme: pages-themes/hacker@v0.2.0
+
 title: Jekyll:iä käyttävä sivusto
 description: Tervetuloa sivustolle!
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
